@@ -188,6 +188,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/stackdriver"
 	_ "github.com/influxdata/telegraf/plugins/inputs/statsd"
 	_ "github.com/influxdata/telegraf/plugins/inputs/suricata"
+	_ "github.com/influxdata/telegraf/plugins/inputs/suzieq"
 	_ "github.com/influxdata/telegraf/plugins/inputs/swap"
 	_ "github.com/influxdata/telegraf/plugins/inputs/synproxy"
 	_ "github.com/influxdata/telegraf/plugins/inputs/syslog"
